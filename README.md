@@ -14,5 +14,4 @@
 <br/>
 
 ## About Me 
-I am a MERN Stack web developer passionate about creating modern applications using React, Node.js, Express, and MongoDB, currently focusing on expanding my full-stack skills
-
+I am a MERN Stack web developer passionate about creating modern applications using React, Node.js, Express, and MongoDB. I am currently focused on expanding my full-stack skills and building complete, scalable web applications.
