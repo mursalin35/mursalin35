@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="./banner/git-banner.png" alt="banner png">
 
 <br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mursalin35">
