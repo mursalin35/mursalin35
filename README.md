@@ -13,3 +13,8 @@
 </div>
 
 <br/>
+
+## About Me 
+
+I am a MERN Stack web developer passionate about creating modern, high-quality applications using React, Node.js, Express, and MongoDB. I’m currently expanding my full-stack skills, focusing on building complete, scalable web applications from frontend to backend with modern tools and technologies.
+
