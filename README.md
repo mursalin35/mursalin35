@@ -14,11 +14,12 @@
   </ul>
 </div>
 
-
+<!--- About me --->
 ## About Me 
 <strong> I am a MERN Stack web developer passionate about creating modern applications using React, Node.js, Express, and MongoDB. I am currently focused on expanding my full-stack skills and building complete, scalable web applications. <strong/>
+<br/>
 
-
+<!--- Tech Stack --->
  ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> Tech Stack:</b>
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
@@ -29,7 +30,14 @@
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                        |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 | **Design & Graphics** | ![Figma](https://img.shields.io/badge/Figma-333333?style=flat&logo=figma) ![Photoshop](https://img.shields.io/badge/Photoshop-333333?style=flat&logo=adobephotoshop) ![Illustrator](https://img.shields.io/badge/Illustrator-333333?style=flat&logo=adobeillustrator) ![Pixso](https://img.shields.io/badge/Pixso-333333?style=flat&logo=pixso) |
+<br/>
 
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GitHub Statistics:</b>
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalin35&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mursalin35&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | <a><img align="center" src="https://streak-stats.demolab.com/?user=mursalin35&hide_border=true" /></a> |
 
 
 
