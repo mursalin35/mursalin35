@@ -38,6 +38,18 @@
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalin35&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mursalin35&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | <a><img align="center" src="https://streak-stats.demolab.com/?user=mursalin35&hide_border=true" /></a> |
+<br/>
 
+<!--- Contact --->
+## <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="26"> **Contact**
+
+Feel free to reach out if you’d like to connect, collaborate, or discuss new opportunities.
+
+### 🌐 You Can Find Me On
+- **📧 Email:** msmursalin35@gmail.com  
+- **🔗 LinkedIn:** [Click Here](https://www.linkedin.com/in/mursalin07/)  
+- **📘 Facebook:** [Click Here ](https://www.facebook.com/mursalin07) 
+
+Let’s connect and build something amazing together! 🚀
 
 
