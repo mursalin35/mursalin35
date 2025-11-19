@@ -15,6 +15,18 @@
   </ul>
 </div>
 
+<!-- Quick links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mursalin07/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:msmursalin35@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+
+
 <!--- About me --->
 ## About Me 
 <strong> I am a MERN Stack web developer passionate about creating modern applications using React, Node.js, Express, and MongoDB. I am currently focused on expanding my full-stack skills and building complete, scalable web applications. <strong/>
