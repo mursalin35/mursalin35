@@ -32,6 +32,14 @@
 <strong> I am a MERN Stack web developer passionate about creating modern applications using React, Node.js, Express, and MongoDB. I am currently focused on expanding my full-stack skills and building complete, scalable web applications. <strong/>
 <br/>
 
+## 🌱 My Activity  
+- MERN Stack Developer  
+- Enthusiastic about clean UI/UX  
+- Currently building **FinEase – FinTech App**  
+- Learning: TypeScript, Next.js  
+- Goal: Become a top-tier Full-Stack Developer
+<br/>
+
 <!--- Tech Stack --->
  ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> Tech Stack:</b>
 
